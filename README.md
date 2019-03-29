@@ -1,1 +1,3 @@
-# DIYproject
+# diy-project
+
+This file can be used to explain a little about your project...
